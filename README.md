@@ -319,7 +319,6 @@ Syntax: clear
 <img width="1920" height="1165" alt="image" src="https://github.com/user-attachments/assets/5055c031-901e-495e-aa00-a7526c5431d9" />
 
 
-<img width="1920" height="1165" alt="image" src="https://github.com/user-attachments/assets/8c505f70-087d-4953-a335-a07cb59e39c1" />
 
 
 
